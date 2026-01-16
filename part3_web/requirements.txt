@@ -1,0 +1,5 @@
+Flask>=3.0.0
+Flask-Mail>=0.9.1
+Topsis-Sneha-102303033>=0.1.0   # your package name
+pandas>=1.5.0
+numpy>=1.24.0
